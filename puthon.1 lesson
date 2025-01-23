@@ -2,7 +2,4 @@
 # old = int(input("how old are you:"))
 # films =input ("what your favorite films:")
 # print ("Your name is:",name,",Your old:",old,",your favorite film:",films)
-# name ="tom"
-# Name ="Sam"
-# NAME = "Sack"
-# print(Name)
+
